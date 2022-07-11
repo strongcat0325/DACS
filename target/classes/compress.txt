@@ -1,0 +1,14 @@
+rar
+zip
+cab
+iso
+jar
+ace
+7z
+tar
+gz
+arj
+lzh
+uue
+bz2
+z
